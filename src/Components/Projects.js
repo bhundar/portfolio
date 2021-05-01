@@ -105,7 +105,7 @@ const projectCategoriesJson = {
     {
       src: 'Assets/Img/Projects/Gravity.png',
       title: 'Gravity',
-      bodyText: 'Code that implements different approximation methods using object oriented techniques for an arbitrary number of bodies, given an initial position, velocity and a mass for each body.',
+      bodyText: 'Code that implements various approximation methods using object oriented techniques for an arbitrary number of bodies, given an initial position, velocity and a mass for each body.',
       gitLink: 'https://github.com/bhundar/Gravity',
     }
   ],
