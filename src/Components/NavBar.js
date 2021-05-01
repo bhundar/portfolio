@@ -70,7 +70,7 @@ export class NavBar extends React.Component {
           <div className={css(styles.navigationItem)} onClick={() => scroll('#Projects')}>Projects</div>
           {/* <div className={css(styles.navigationItem)} onClick={() => scroll('#Contact')}>Contact</div> */}
           {/*<a href='link' target='_blank' className={css(styles.navigationItem)} rel='noopener noreferrer'><div>Blog</div></a>*/}
-          <a href='./gursimratResume.pdf' target='_blank' className={css(styles.navigationItem)}><div>Resume</div></a> 
+          <a href='https://drive.google.com/file/d/1VvTWf42jLiXuotSlgVe0Z20cPjpf4Xgw/view?usp=sharing' target='_blank' className={css(styles.navigationItem)}><div>Resume</div></a> 
         </div>
 
       </div>
